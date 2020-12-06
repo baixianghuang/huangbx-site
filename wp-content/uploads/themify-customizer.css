@@ -1,0 +1,43 @@
+/* Themify Customize Styling */
+body {	
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	color: #000000; 
+}
+a {	
+	color: #aedee4; 
+}
+a:hover {	
+	color: #1808c9; 
+}
+#headerwrap {	
+	background-color: transparent; 
+}
+#header a {	
+	color: #230db3; 
+}
+#header a:hover {	
+	color: #aedee4; 
+}
+body[class*="themify"] #site-logo a {	
+	color: #e06c45; 
+}
+body[class*="themify"] #site-logo a img {		width: 90px; 
+}
+#main-nav a {	
+	font-family:Tahoma, Geneva, sans-serif;	font-size:20px;
+
+	color: rgba(13,12,13,0.87); 
+}
+#footer a {	
+	color: #aedee4; 
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 90px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 90px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 90px; 
+}
+ }
